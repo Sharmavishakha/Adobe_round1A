@@ -89,6 +89,7 @@ re and json (standard library)
 ✅ Dockerfile compatible with --platform=linux/amd64.
 
 ## File Structure
+```bash
 .
 ├── Dockerfile
 ├── main.py
@@ -98,3 +99,4 @@ re and json (standard library)
 ├── output/
 │   └── *.json
 └── README.md
+```
