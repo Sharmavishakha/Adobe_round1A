@@ -1,8 +1,8 @@
 import os
 from parser_utils import extract_pdf_structure, classify_headings, save_json
 
-INPUT_DIR = r"C:/Users/hp/OneDrive/Desktop/round1A/input"
-OUTPUT_DIR = r"C:/Users/hp/OneDrive/Desktop/round1A/output"
+INPUT_DIR = "./input"
+OUTPUT_DIR = "./output"
 
 def main():
     print("Running script...")
